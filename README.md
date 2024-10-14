@@ -4,16 +4,17 @@
 I’m passionate about breaking into the cybersecurity field, with a focus on constantly improving my skills through hands-on experience and independent projects. From building my own home lab to experimenting with ethical hacking and network defense techniques, I’m committed to understanding the complexities of cyber threats and how to combat them.
 
 ## Projects
+Here are the projects that I have completed and documented:
 - Detection Lab
 - SOC Automation Project
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+These are some of the skills that I have gained some experience in throughout my projects.
 
 | Skill                                         | Associated Projects       |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>, |
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -21,7 +22,7 @@ I’m passionate about breaking into the cybersecurity field, with a focus on co
 | Managing Ticketing Systems | SOC Automation Lab|
 
 ## Tools
-
+These are the tools that I have used so far:
 
 ### Network
 <div>
@@ -38,7 +39,6 @@ I’m passionate about breaking into the cybersecurity field, with a focus on co
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
