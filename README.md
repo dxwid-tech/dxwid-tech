@@ -5,8 +5,8 @@ I’m passionate about breaking into the cybersecurity field, with a focus on co
 
 ## Projects
 Here are the projects that I have completed and documented:
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/dxwid-tech/SOC-Analyst-Lab">SOC Analyst Home Lab</a>
+- <a href="https://github.com/dxwid-tech/SOC-Analyst-Lab">Active Directory Home Lab</a>
 
 
 ## Skills
@@ -14,7 +14,7 @@ These are some of the skills that I have gained some experience in throughout my
 
 | Skill                                         | Associated Projects       |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>, |
+| SIEM Implementation and Log Analysis using Elastic and Splunk         | <a href="https://github.com/dxwid-tech/SOC-Analyst-Lab">SOC Analyst Home Lab</a>, <a href="https://github.com/dxwid-tech/SOC-Analyst-Lab">Active Directory</a> |
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
