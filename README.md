@@ -29,7 +29,8 @@ These are the tools that I have used so far:
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kibana-005571?&style=for-the-badge&logo=Kibana&logoColor=white" />
-    <img src="https://img.shields.io/badge/-osTicket-1E90FF?&style=for-the-badge&logo=osTicket&logoColor=white" />
+    <img src="https://img.shields.io/badge/-osTicket-FF6600?&style=for-the-badge&logo=osTicket&logoColor=white" />
+
 
 
     
