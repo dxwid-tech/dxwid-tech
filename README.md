@@ -1,5 +1,5 @@
 # Hello, I'm Dawid
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/dawid-fulara-2a2021330/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I’m passionate about breaking into the cybersecurity field, with a focus on constantly improving my skills through hands-on experience and independent projects. From building my own home lab to experimenting with ethical hacking and network defense techniques, I’m committed to understanding the complexities of cyber threats and how to combat them.
 
