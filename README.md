@@ -26,11 +26,15 @@ These are the tools that I have used so far:
 
 ### Network
 <div>
+<img src="https://img.shields.io/badge/-Vultr-5B6C84?&style=for-the-badge&logo=Vultr&logoColor=white" />
+
 
 </div>
 
 ### Endpoint
 <div>
+    <img src="https://img.shields.io/badge/-Mythic-8B2C42?&style=for-the-badge&logo=Mythic&logoColor=white" />
+
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
